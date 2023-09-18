@@ -3,9 +3,6 @@
 # Hi there, I'm Maia 👋
 
 I'm a 2nd-year computer science and math student at the University of Ottawa.
-- 📚 I'm currently learning Web Development
-- 💻 I'm working on my first full-stack website and some small projects on the side
-- 👀 My next plan is to learn OpenCV and its application
 
 # Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
