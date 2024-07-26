@@ -2,7 +2,7 @@
 
 # Hi there, I'm Maia 👋
 
-I'm a 2nd-year computer science and math student at the University of Ottawa.
+I'm a 3rd-year computer science student at the University of Ottawa.
 
 # Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
